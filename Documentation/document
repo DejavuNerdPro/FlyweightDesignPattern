@@ -1,0 +1,7 @@
+                                  FlyWeight Design Pattern
+                ========================================================
+
+purpose : to save memory usage and to optimize code that deals with a large number of similar objects.
+
+
+
